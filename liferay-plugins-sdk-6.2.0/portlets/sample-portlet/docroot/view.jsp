@@ -19,3 +19,5 @@
 <portlet:defineObjects />
 
 This is the <b>Sample</b> portlet.
+
+Jenkins
