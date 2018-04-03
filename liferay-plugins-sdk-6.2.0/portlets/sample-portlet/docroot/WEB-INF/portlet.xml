@@ -34,7 +34,7 @@
 	<portlet>
 		<portlet-name>new</portlet-name>
 		<display-name>New</display-name>
-		<portlet-class>com.test.NewPortlet</portlet-class>
+		<portlet-class>com.liferay.util.bridges.mvc.MVCPortlet</portlet-class>
 		<init-param>
 			<name>view-template</name>
 			<value>/html/new/view.jsp</value>
